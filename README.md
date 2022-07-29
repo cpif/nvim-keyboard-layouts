@@ -7,12 +7,17 @@ are or do a whole bunch of remappings?
 
 Personally, I prefer the idea that to delete a line, I give it
 the middle finger on the home row twice -- even if the letter
-under that finger is no longer `d`.
+under that finger is no longer `d`. And I don't want to do all
+those remappings by hand -- which seems to be what most other
+folks end up doing.
 
 So I wrote this little script that programmatically maps
 everything to where your muscles remember it being. No doubt it
 has problems -- but I think they'd be easy for you to fix (or to
 let me know about so I can fix them.
+
+I've tried to make the script fairly "readable," so hopefully if
+there are problems you can identify them yourself.
 
 ## Installing
 
